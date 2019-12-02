@@ -11,5 +11,5 @@ At the time of uploading this it is undetected and could be used for malicious p
 ### Options/features
 
 * Detect admin privileges
-* Add a specified folder to Windows Defender exclusions list
+* Add a specified folder to the Windows Defender exclusions list
 * Possibility to download and execute a file undetected
